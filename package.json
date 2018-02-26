@@ -1,0 +1,28 @@
+{
+  "name": "socket_chat",
+  "version": "1.0.0",
+  "description": "A Real Time Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihiteish/Socket_chat.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "React",
+    "Node",
+    "Socket.io",
+    "Chat",
+    "Apps"
+  ],
+  "author": "Hitesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihiteish/Socket_chat/issues"
+  },
+  "homepage": "https://github.com/ihiteish/Socket_chat#readme"
+}
